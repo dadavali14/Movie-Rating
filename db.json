@@ -1,0 +1,63 @@
+{
+  "movies": [
+    {
+      "id": "5a26",
+      "title": "kgf",
+      "poster": "https://wallpapercave.com/wp/wp4019377.jpg",
+      "hero": "yash",
+      "heroine": "srinidi  shetty",
+      "director": "prasanth neel",
+      "summary": "the movie about gold dedicated to his mother",
+      "ratings": [
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        },
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 7
+        }
+      ],
+      "averageRating": 5.25,
+      "isWatchlisted": true,
+      "isWatched": true
+    },
+    {
+      "id": "3a58",
+      "title": "puspha 2 ",
+      "poster": "https://images.news18.com/ibnlive/uploads/2024/11/allu-arjun-pushpa-2-2024-11-13ea3f46cee5c583acd0825f201162d5.jpg?impolicy=website&width=360&height=270",
+      "hero": "allu arjun",
+      "heroine": "rashmika",
+      "director": "sukumar",
+      "summary": "the summary about sandal wood ",
+      "ratings": [],
+      "averageRating": 0,
+      "isWatchlisted": true,
+      "isWatched": false
+    }
+  ]
+}
